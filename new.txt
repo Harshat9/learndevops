@@ -1,5 +1,0 @@
-Hello team,
-
-This is the new file where all the team-members are requested to add the time log.
-
-Also, kindly update the future tasks being updated by the user him/her self.
